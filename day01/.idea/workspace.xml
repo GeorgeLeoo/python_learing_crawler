@@ -302,10 +302,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.02-get-params">
+    <configuration name="02-encode.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day01/02-encode.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="baidu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day01/baidu.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -356,6 +365,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.02-get-params" />
+        <item itemvalue="JavaScript Debug.02-encode.html" />
         <item itemvalue="Python.01-url_open_code" />
         <item itemvalue="JavaScript Debug.baidu.html" />
       </list>
@@ -371,7 +381,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595343902513</updated>
-      <workItem from="1595343903762" duration="1275000" />
+      <workItem from="1595343903762" duration="2056000" />
     </task>
     <servers />
   </component>
@@ -390,29 +400,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="621" key="GridCell.Tab.0.bottom" timestamp="1595345041102">
+    <state width="1358" height="525" key="GridCell.Tab.0.bottom" timestamp="1595345757116">
       <screen x="0" y="23" width="3008" height="1589" />
     </state>
-    <state width="1358" height="621" key="GridCell.Tab.0.bottom/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041102" />
-    <state width="1358" height="621" key="GridCell.Tab.0.center" timestamp="1595345041102">
+    <state width="1358" height="525" key="GridCell.Tab.0.bottom/0.23.3008.1589@0.23.3008.1589" timestamp="1595345757116" />
+    <state width="1358" height="525" key="GridCell.Tab.0.center" timestamp="1595345757116">
       <screen x="0" y="23" width="3008" height="1589" />
     </state>
-    <state width="1358" height="621" key="GridCell.Tab.0.center/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041102" />
-    <state width="1358" height="621" key="GridCell.Tab.0.left" timestamp="1595345041101">
+    <state width="1358" height="525" key="GridCell.Tab.0.center/0.23.3008.1589@0.23.3008.1589" timestamp="1595345757116" />
+    <state width="1358" height="525" key="GridCell.Tab.0.left" timestamp="1595345757115">
       <screen x="0" y="23" width="3008" height="1589" />
     </state>
-    <state width="1358" height="621" key="GridCell.Tab.0.left/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041101" />
-    <state width="1358" height="621" key="GridCell.Tab.0.right" timestamp="1595345041102">
+    <state width="1358" height="525" key="GridCell.Tab.0.left/0.23.3008.1589@0.23.3008.1589" timestamp="1595345757115" />
+    <state width="1358" height="525" key="GridCell.Tab.0.right" timestamp="1595345757116">
       <screen x="0" y="23" width="3008" height="1589" />
     </state>
-    <state width="1358" height="621" key="GridCell.Tab.0.right/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041102" />
+    <state width="1358" height="525" key="GridCell.Tab.0.right/0.23.3008.1589@0.23.3008.1589" timestamp="1595345757116" />
     <state x="1563" y="515" key="SettingsEditor" timestamp="1595343992846">
       <screen x="0" y="23" width="3008" height="1589" />
     </state>
     <state x="1563" y="515" key="SettingsEditor/0.23.3008.1589@0.23.3008.1589" timestamp="1595343992846" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/day01$02_get_params.coverage" NAME="02-get-params Coverage Results" MODIFIED="1595345318423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day01$02_get_params.coverage" NAME="02-get-params Coverage Results" MODIFIED="1595345757109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day01$01_url_open_code.coverage" NAME="01-url_open_code Coverage Results" MODIFIED="1595344970178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
