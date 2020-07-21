@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="135af130-95b6-4327-8232-4e18f4bb3548" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01-url_open_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-get-params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chat/c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chat/c.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chat/s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chat/s.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chat/ss.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elementUI/j-ui/build/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elementUI/j-ui/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elementUI/j-ui/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elementUI/j-ui/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/DataStructure/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/DataStructure/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/DataStructure/tests/queue.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/DataStructure/tests/stack.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/DataStructure/tests/stack.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/promise-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_interview/reg/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux/xx/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/actions.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/aliasing.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/assertions.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/connectors.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/cookies.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/cypress_api.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/files.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/local_storage.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/location.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/misc.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/navigation.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/network_requests.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/querying.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/spies_stubs_clocks.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/traversal.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/utilities.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/viewport.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/waiting.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/examples/window.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/integration/sample_spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/cypress/support/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/api/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/api/urls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/appload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/css/full.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/css/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/css/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/css/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/css/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/case/case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/common/column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/common/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/common/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/common/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/common/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/common/user-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/jie/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/jie/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/jie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/other/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/other/notice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/other/tips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/activate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/forget.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/html/user/set.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/avatar/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/case.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/fly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/other/1437100018023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/other/study-a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/images/weixin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/mods/case.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/mods/face.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/mods/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/mods/jie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/mods/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/assets/qr.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/local/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/utils/HttpRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/utils/errorHandel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/views/Forget.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/src/views/Reg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front_server/src/api/PublicController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/front_server/src/routes/publicRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/gulp_demo/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/resource/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../大前端/resource/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/common/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/i18n/en/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/i18n/en/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/i18n/en/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/i18n/zhCN/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/i18n/zhCN/sign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/router/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/views/sign/common/current_view_options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/views/sign/common/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/views/sign/common/privateMethods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/src/views/sign/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../表格管理系统/table_system/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/21. 合并两个有序链表/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project" beforeDir="false" afterPath="$PROJECT_DIR$/../../project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-client" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react后台/课件资料/files/Postman-win64-4.10.3-Setup.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react后台/课件资料/files/mongodb/mongodb-win32-x86_64-2008plus-ssl-3.2.4-signed.msi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react后台/课件资料/files/mongodb/mongodb-win32-x86_64-2008plus-ssl-4.0.2-signed.msi" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1f08yNZnWdjYAo6wFWINRikUw1t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.02-get-params">
+    <configuration name="baidu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day01/baidu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="01-url_open_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-url_open_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-get-params" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-get-params.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02-get-params" />
+        <item itemvalue="Python.01-url_open_code" />
+        <item itemvalue="JavaScript Debug.baidu.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="135af130-95b6-4327-8232-4e18f4bb3548" name="Default Changelist" comment="" />
+      <created>1595343902513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595343902513</updated>
+      <workItem from="1595343903762" duration="1275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="621" key="GridCell.Tab.0.bottom" timestamp="1595345041102">
+      <screen x="0" y="23" width="3008" height="1589" />
+    </state>
+    <state width="1358" height="621" key="GridCell.Tab.0.bottom/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041102" />
+    <state width="1358" height="621" key="GridCell.Tab.0.center" timestamp="1595345041102">
+      <screen x="0" y="23" width="3008" height="1589" />
+    </state>
+    <state width="1358" height="621" key="GridCell.Tab.0.center/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041102" />
+    <state width="1358" height="621" key="GridCell.Tab.0.left" timestamp="1595345041101">
+      <screen x="0" y="23" width="3008" height="1589" />
+    </state>
+    <state width="1358" height="621" key="GridCell.Tab.0.left/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041101" />
+    <state width="1358" height="621" key="GridCell.Tab.0.right" timestamp="1595345041102">
+      <screen x="0" y="23" width="3008" height="1589" />
+    </state>
+    <state width="1358" height="621" key="GridCell.Tab.0.right/0.23.3008.1589@0.23.3008.1589" timestamp="1595345041102" />
+    <state x="1563" y="515" key="SettingsEditor" timestamp="1595343992846">
+      <screen x="0" y="23" width="3008" height="1589" />
+    </state>
+    <state x="1563" y="515" key="SettingsEditor/0.23.3008.1589@0.23.3008.1589" timestamp="1595343992846" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day01$02_get_params.coverage" NAME="02-get-params Coverage Results" MODIFIED="1595345318423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day01$01_url_open_code.coverage" NAME="01-url_open_code Coverage Results" MODIFIED="1595344970178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
